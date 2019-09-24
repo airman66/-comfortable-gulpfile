@@ -1,2 +1,2 @@
 # -comfortable-gulpfile
-Compiling scss, add prefixes and start live server in one gulpfile
+Compiling scss, adding prefixes and starting live server in one gulpfile
