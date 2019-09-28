@@ -1,7 +1,7 @@
 # -comfortable-gulpfile
 Compiling scss, adding prefixes and starting live server in one gulpfile
 
-#Install
+# Install
     npm init
     npm i gulp --save-dev
     npm i gulp-sass --save-dev
