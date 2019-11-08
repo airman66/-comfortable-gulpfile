@@ -13,3 +13,4 @@ Compiling scss, adding prefixes and starting live server in one gulpfile
     npm i gulp-htmlmin --save-dev
     npm i gulp-uglify --save-dev
     npm i gulp-imagemin --save-dev
+    npm install --save-dev gulp-babel @babel/core @babel/preset-env
